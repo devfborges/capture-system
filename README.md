@@ -20,7 +20,7 @@ This is the solution of a project proposed in the "COURSE DEVELOPMENT WEB FULL S
 
 ### Links
 
-- Solution URL : [Capture Page](https://felipeborge5.github.io/capture-system/)
+- Solution URL : [Capture Page](https://devfborges.github.io/capture-system/)
 
 ## My process
 
